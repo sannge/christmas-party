@@ -1,0 +1,27 @@
+body {
+  background-color: #ffefef;
+  color: #2c2c54;
+  font-family: "Roboto", sans-serif;
+}
+
+h1 {
+  color: #d92027;
+  text-align: center;
+}
+
+button {
+  background-color: #ff6b6b;
+  color: #fff;
+  border: none;
+  padding: 10px 20px;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #fa3e3e;
+}
+
+.name-entry, .spin-wheel, .results {
+  text-align: center;
+  margin-top: 50px;
+}
