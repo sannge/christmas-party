@@ -14,7 +14,7 @@ const Spin = () => {
   const categories = ["🎄 Drinks", "🎁 Entree", "🎂 Dessert", "🍪 Appetizer"];
   const categoryLimits = {
     "🎄 Drinks": 1,
-    "🎁 Entree": 3,
+    "🎁 Entree": 4,
     "🎂 Dessert": 2,
     "🍪 Appetizer": 2,
   };

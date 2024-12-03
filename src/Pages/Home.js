@@ -1,8 +1,6 @@
 import React, { useState } from "react";
 import { useNavigate } from "react-router-dom";
 import "../Home.css";
-import Gift from "../images/gift.jpg";
-import Reindeer from "../images/reindeer.jpg";
 
 const Home = () => {
   const [name, setName] = useState("");
